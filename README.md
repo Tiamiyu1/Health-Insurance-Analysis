@@ -10,6 +10,7 @@ Data analysis is defined as a process of cleaning, transforming, and modeling da
 **PROBLEM STATEMENT:** In this project, we used visualizations and statistical hypothesis testing to evaluate and examine a dataset for medical costs in Health Insurance in the United States, in order to draw significant insights and make some statistical-based inferences.
 
 ## Key Findings
+
 -Smoking significantly influences the charged amounts: Smokers are charged more than non-smokers.
 
 - The BMI is evenly distributed across males and females.
