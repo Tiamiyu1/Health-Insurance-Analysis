@@ -11,7 +11,7 @@ Data analysis is defined as a process of cleaning, transforming, and modeling da
 
 ## Key Findings
 
--Smoking significantly influences the charged amounts: Smokers are charged more than non-smokers.
+- Smoking significantly influences the charged amounts: Smokers are charged more than non-smokers.
 
 - The BMI is evenly distributed across males and females.
 
